@@ -1,0 +1,26 @@
+
+
+.doctor-image {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem auto;
+  border: 3px solid #007bff;
+  transition: box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.doctor-image:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.custom-btn {
+  width: auto;
+  display: inline-block;
+  padding: 8px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  text-align: center;
+}
