@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Geetha Sri",
+    "specialization": "Cardiologist",
+    "profileImage": "/images/Geetha.jpeg",
+    "availability": "Available Today",
+    "schedule": {
+      "Monday": "9AM - 1PM",
+      "Tuesday": "10AM - 2PM",
+      "Wednesday": "On Leave",
+      "Thursday": "9AM - 1PM",
+      "Friday": "11AM - 3PM"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Dr.Govindh",
+    "specialization": "Dermatologist",
+    "profileImage": "/images/Govindh.jpg",
+    "availability": "Fully Booked",
+    "schedule": {
+      "Monday": "On Leave",
+      "Tuesday": "9AM - 1PM",
+      "Wednesday": "9AM - 1PM",
+      "Thursday": "On Leave",
+      "Friday": "10AM - 2PM"
+    }
+  }
+]
